@@ -3,6 +3,7 @@
 [arxiv](https://arxiv.org/abs/2012.03459) | [doi](https://ieeexplore.ieee.org/document/9309246)
 
 This paper has been accepted as a Regular Paper by **IEEE Transactions on Information Forensics & Security**.
+Inspired by the fact that faces gradually age over time, this paper proposes a novel progressive face aging framework based on Generative ADversarial network (PFA-GAN).
 
 #### Requirements
 
